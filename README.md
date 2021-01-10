@@ -5,7 +5,7 @@
 
 ### As a scholar at the University of Canterbury, I have engaged with modern computer science theory and technologies. 
 
-- 🛠️   I’m currently working on [productivity] - a small productivity suite for macOS.
+- :hammer: I’m currently working on [productivity] - a small productivity suite for macOS.
 - 🌱   I’m currently learning front-end web development through [Treehouse].
 - 🤔   I’m looking for help with [AirPlonk].
 - 🤿   I am actively diving deeper into the foss community.
@@ -13,7 +13,7 @@
 - - -
 ### 2021 Goals:
 
-- Gain competency in:
+Gain competency in:
   - CSS3
   - Electron
   - HTML5
@@ -22,7 +22,7 @@
   - Docker
   - Develop a full-stack application using the above.
 
-- Complete my Bsc studies.
+Complete my Bsc studies.
 
 - - -
 ### Competencies:
