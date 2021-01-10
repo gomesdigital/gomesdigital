@@ -5,10 +5,10 @@
 
 ### As a scholar at the University of Canterbury, I have engaged with modern computer science theory and technologies. 
 
-- 🛠️ &nbsp;I’m currently working on [productivity] - a small productivity suite for macOS.
-- 🌱 &nbsp;I’m currently learning front-end web development through [Treehouse].
-- 🤔 &nbsp;I’m looking for help with [AirPlonk].
-- 🤿 &nbsp;I am actively diving deeper into the foss community.
+- 🛠️ &nbsp; I’m currently working on [productivity] - a small productivity suite for macOS.
+- 🌱 &nbsp; I’m currently learning front-end web development through [Treehouse].
+- 🤔 &nbsp; I’m looking for help with [AirPlonk].
+- 🤿 &nbsp; I am actively diving deeper into the foss community.
 
 - - -
 ### 2021 Goals:
