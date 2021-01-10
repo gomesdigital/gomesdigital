@@ -11,7 +11,7 @@
 - 🤿 &nbsp; I am actively diving deeper into the foss community.
 
 - - -
-### 2021 Goals:
+### 2021 Goals
 - Gain competency in:
   - CSS3
   - Electron
