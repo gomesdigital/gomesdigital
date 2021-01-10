@@ -13,12 +13,12 @@
 - - -
 ### 2021 Goals:
 - Gain competency in:
-\t- CSS3
-\t- Electron
-\t- HTML5
-\t- Node.js
-\t- Vue.js
-\t- Docker
+  - CSS3
+  - Electron
+  - HTML5
+  - Node.js
+  - Vue.js
+  - Docker
 
 - Develop a full-stack application using the above.
 
