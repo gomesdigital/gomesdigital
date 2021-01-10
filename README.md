@@ -14,12 +14,12 @@
 ### 2021 Goals
 - Gain competency in:
   - CSS3
+  - Docker
   - Electron
   - HTML5
   - Node.js
   - Vue.js
-  - Docker
-
+  
 - Develop a full-stack application using the above.
 
 - Complete my Bsc studies.
