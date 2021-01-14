@@ -9,7 +9,6 @@
 - 🌱 &nbsp; I’m currently learning front-end web development through [Treehouse].
 - 🤔 &nbsp; I’m looking for help with [AirPlonk].
 - 🤿 &nbsp; I am actively diving deeper into the foss community.
-
 - - -
 ### 2021 Goals
 - Gain competency in:
@@ -23,7 +22,6 @@
 - Develop a full-stack application using the above. ☐
 
 - Complete my Bsc studies. ☐
-
 - - -
 ### Competencies:
 
