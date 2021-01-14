@@ -9,7 +9,7 @@
 - 🌱 &nbsp; I’m currently learning front-end web development through [Treehouse].
 - 🤔 &nbsp; I’m looking for help with [AirPlonk].
 - 🤿 &nbsp; I am actively diving deeper into the foss community.
-- - -
+
 ### 2021 Goals
 - Gain competency in:
   - CSS3 ☐
@@ -22,7 +22,7 @@
 - Develop a full-stack application using the above. ☐
 
 - Complete my Bsc studies. ☐
-- - -
+
 ### Competencies:
 
 <img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/bash/bash-original.svg" />
