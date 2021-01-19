@@ -23,6 +23,9 @@
 
 - Complete my Bsc studies. ☐
 
+### Long Term Goals
+- Add to Homebrew core.
+
 ### Competencies:
 
 <img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/bash/bash-original.svg" />
