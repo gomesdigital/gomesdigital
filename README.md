@@ -9,6 +9,7 @@
 - 🌱 &nbsp; I’m currently learning front-end web development through [Treehouse].
 - 🤔 &nbsp; I’m looking for help with [AirPlonk].
 - 🤿 &nbsp; I am actively diving deeper into the foss community.
+- 🤝 &nbsp; I am interested in internship opportunities over Dec 2021.
 
 ### 2021 Goals
 - Gain competency in:
