@@ -26,6 +26,7 @@
 
 ### Long Term Goals
 - Add to Homebrew core.
+- Patch the Linux kernel.
 
 ### Competencies:
 
