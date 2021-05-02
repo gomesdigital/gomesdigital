@@ -17,7 +17,7 @@
   - Electron ☐
   - HTML5 ☐
   - Node.js ☐
-  - Vue.js ☐
+  - Vue.js 🗹 
   
 - Develop a full-stack application using the above. ☐
 
@@ -34,6 +34,8 @@
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/python/python-original.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/vim/vim-original.svg" />
+<img align="left" alt="Vim" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" />
+
 
 [productivity]: https://github.com/daaanstraight/homebrew-productivity
 [Treehouse]: https://teamtreehouse.com/tracks/front-end-web-development
