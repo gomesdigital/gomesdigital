@@ -5,7 +5,6 @@
 
 ### As a scholar at the University of Canterbury, I have engaged with modern computer science theory and technologies. 
 
-- 🛠️ &nbsp; I’m currently working on [teleport-audio].
 - 🌱 &nbsp; I’m currently learning VueJS through [VueMastery].
 - 🤔 &nbsp; I’m looking for help with [AirPlonk].
 - 🤿 &nbsp; I am actively diving deeper into the foss community.
